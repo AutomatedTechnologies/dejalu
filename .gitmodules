@@ -25,3 +25,12 @@
 [submodule "third-party/KVOController"]
 	path = third-party/KVOController
 	url = https://github.com/facebook/KVOController
+[submodule "third-party/externals/libetpan"]
+	path = third-party/externals/libetpan
+	url = https://github.com/dinhviethoa/libetpan.git
+[submodule "third-party/externals/ctemplate"]
+	path = third-party/externals/ctemplate
+	url = https://github.com/dinhviethoa/ctemplate
+[submodule "third-party/externals/tidy-html5"]
+	path = third-party/externals/tidy-html5
+	url = https://github.com/dinhviethoa/tidy-html5
